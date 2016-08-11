@@ -20,5 +20,6 @@ vagrant ssh
 Then on the box:
 
 ```
-cqlsh   // for cassandra
+cqlsh <Node-IP> 9042
+nodetool status
 ```
