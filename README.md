@@ -1,4 +1,4 @@
-vagrant-cassandra-spark
+vagrant-cassandra
 =======================
 
 A work in progress.
